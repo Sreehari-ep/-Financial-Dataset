@@ -140,50 +140,10 @@ Profitability
 
 Expense patterns
 
-📌 Project Use Case
 
-This project is ideal for:
 
-Financial reporting
-
-Business performance tracking
-
-Budget vs Actual analysis (if data exists)
-
-Monthly financial review meetings
-
-🧪 Future Enhancements (Recommended)
-
-Here are improvements that can make the project stronger:
-
-📌 Add Budget vs Actual comparison
-
-📌 Add Forecasting (future sales/profit prediction)
-
-📌 Add Drill-through pages for deeper analysis
-
-📌 Add Tooltips pages for better UX
-
-📌 Publish to Power BI Service with scheduled refresh
-
-📷 Screenshots (Optional)
-
-You can add screenshots here:
-
-![Dashboard Screenshot](images/dashboard.png)
-
-👤 Author
 
 Sreehari EP
-📌 Power BI Financial Dashboard Project
-📍 India
+Thank you
 
-📜 License
 
-This project is created for learning and portfolio purposes.
-You may reuse it with proper credits.
-
-If you want, I can also:
-✅ write a resume/portfolio description for this project
-✅ create a LinkedIn post for sharing this dashboard
-✅ generate a Project Documentation PDF style README
